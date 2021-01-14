@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "ParisProject BASE HOME-9/9/20 Rectif 1",
+    "name": "ParisProject BASE HOME-9/9/20",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -79,16 +79,14 @@
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "favicon": false,
-    "noImageResize": "",
+    "noImageResize": false,
     "screenshot": "screenshot.png",
     "siteUrl": "https://paris-project.github.io/ParisProject/",
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
     "gdpr": false,
     "sitemapSwitcher": "on",
-    "robotsSwitcher": false,
-    "imageResize": true,
-    "publishChangesOnly": true
+    "robotsSwitcher": false
   },
   "pages": {
     "index.html": {
