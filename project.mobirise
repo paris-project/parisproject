@@ -79,14 +79,16 @@
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "favicon": false,
-    "noImageResize": false,
+    "noImageResize": null,
     "screenshot": "screenshot.png",
     "siteUrl": "https://paris-project.github.io/ParisProject/",
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
     "gdpr": false,
     "sitemapSwitcher": "on",
-    "robotsSwitcher": false
+    "robotsSwitcher": false,
+    "imageResize": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
