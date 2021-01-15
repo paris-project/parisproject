@@ -87,7 +87,8 @@
     "gdpr": false,
     "sitemapSwitcher": "on",
     "robotsSwitcher": false,
-    "imageResize": true
+    "imageResize": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
